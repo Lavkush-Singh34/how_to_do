@@ -2,4 +2,4 @@
 ## To check if yt-dlp is installed or not
 > `yt-dlp --help` or `yt-dlp --version`
 `yt-dlp -F`
-[Click me](https://www.rapidseedbox.com/blog/yt-dlp-complete-guide)
+[How to Use YT-DLP: The Complete Guide (2024)](https://www.rapidseedbox.com/blog/yt-dlp-complete-guide)
